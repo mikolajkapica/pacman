@@ -1,1 +1,3 @@
-# pacman
+# Pacman
+
+![Pacman Gameplay](gameplay.png)

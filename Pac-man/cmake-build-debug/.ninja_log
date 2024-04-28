@@ -1,0 +1,15 @@
+# ninja log v5
+1195	1692	7084403826893044	Pac_man.exe	262b33dc84ca78f
+1	364	7082356574792970	build.ninja	d495efb4010460eb
+3	870	7084396389259596	CMakeFiles/Pac_man.dir/main.cpp.obj	b916a578b1a583ba
+104	1021	7083011239741142	CMakeFiles/Pac_man.dir/Pacman.cpp.obj	171b215ac9ab3e97
+124	1898	7080124080076458	CMakeFiles/Pac_man.dir/Pacman_move.cpp.obj	3045ba80d5101d14
+52	1191	7082191689055056	CMakeFiles/Pac_man.dir/Pacmanboard.cpp.obj	d43471a784a14629
+107	1922	7079574478289105	CMakeFiles/Pac_man.dir/Collission.cpp.obj	177c432446fe6f98
+98	1161	7082196268298244	CMakeFiles/Pac_man.dir/pacman.cpp.obj	f1336b6840e7c868
+52	1179	7083028275590890	CMakeFiles/Pac_man.dir/Moneta.cpp.obj	6b3d619e1034a373
+2	803	7082196264713404	CMakeFiles/Pac_man.dir/moneta.cpp.obj	61ecbeb7784149b1
+147	1540	7082196272079972	CMakeFiles/Pac_man.dir/pacman_board.cpp.obj	e8c0a7e80cb0b227
+53	2018	7084395610548827	CMakeFiles/Pac_man.dir/Board.cpp.obj	e7b490d6626215a9
+2	980	7084403819862828	CMakeFiles/Pac_man.dir/Ghost.cpp.obj	139dd768004dac43
+53	1195	7084403822005072	CMakeFiles/Pac_man.dir/Character.cpp.obj	bf2559cb133efa2c
